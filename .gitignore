@@ -1,0 +1,4 @@
+env/
+src/Raw_Data
+src/config.ini
+src/dataset_full.csv
